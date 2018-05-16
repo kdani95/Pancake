@@ -10,6 +10,7 @@ Build server: http://89.134.9.5:8080
 Download a GlassFish application:
 https://glassfish.java.net/download.html (Java EE X Full Platform)
 
+
 Configuration:
 
 	- Resolve the problem of missing derbyclient.jar by adding it. It usually is in the JDK's install directory
